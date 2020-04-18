@@ -1,0 +1,18 @@
+#Título: sub-Filtros da tela
+Tipo: Melhoria
+Prioridade: Baixa
+---Descrição
+Cursor do mouse não é mais exibido sob o icone da lupa em todos sub-filtros da página
+Obs: filtro também não tem funcionalidade de clique
+Evidência: sub_filtros.jpg
+
+#Título Telas que exibe Destaques
+Tipo: Melhoria
+Prioridade: Baixa
+--Descrição
+Algumas promoções estão exibindo . antes do nome da promoção
+Evidência: destaques.jpg
+
+#Título: Sugestão de Melhoria
+--Descrição
+Adicionar descritivo de todas as aulas que contém nos pacotes do curso.
