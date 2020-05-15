@@ -1,4 +1,5 @@
 #encoding: utf-8
+
 Dado("que o aluno acesse o portal da Estrategia Concursos") do
   @busca_page.go
 end
