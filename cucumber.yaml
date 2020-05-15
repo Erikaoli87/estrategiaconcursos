@@ -1,6 +1,7 @@
 ---
 default: -p html --format pretty -p firefox
 json: --format json --out=log/features.json
+ci: -p headless -p json -p pretty
 html: --format html --out=log/features.html
 chrome: BROWSER=chrome
 firefox: BROWSER=firefox
