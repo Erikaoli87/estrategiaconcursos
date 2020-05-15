@@ -17,6 +17,7 @@ when "headless"
     end
     Capybara::Selenium::Driver.new(app, browser: :chrome, options: chrome_options)
   end
+  @driver = :selenium_chrome_headless
 else
   puts "Invalid Browser"
 end
